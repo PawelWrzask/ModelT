@@ -4,7 +4,7 @@
        "modeltacceleratorservices",
        "electronicsstore",
        "yacceleratorstorefront",
-       "backoffice"
+       "backoffice",
        "azurecloudhotfolder"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
