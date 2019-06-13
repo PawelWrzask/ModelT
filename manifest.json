@@ -1,16 +1,10 @@
 {
    "commerceSuiteVersion": "1905.0",
    "extensions": [
-       "yacceleratorstorefront",
-       "backoffice",
-       "platformbackoffice",
+       "modeltacceleratorservices",
        "electronicsstore",
-       "basecommercebackoffice",       
-       "yacceleratorfulfilmentprocess",
-       "solrfacetsearchbackoffice",
-       "commerceservicesbackoffice",
-       "cmscockpit",
-       "smartedit",
+       "yacceleratorstorefront",
+       "backoffice"
        "azurecloudhotfolder"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
